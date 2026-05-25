@@ -1,7 +1,8 @@
 # CoreSwitch01
 en
 conf
-hostname CoreSwitch1  
+hostname CoreSwitch1
+
 
 vlan 200
 name FW-CORE-VLAN200
