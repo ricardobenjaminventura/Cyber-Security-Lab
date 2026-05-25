@@ -1,4 +1,5 @@
 # Edge Router 1
+```routeros
 En
 Conf t 
 hostname EdgRtr1 
@@ -6,7 +7,8 @@ track 1 interface GigabitEthernet0/3 line-protocol
 interface GigabitEthernet0/0 
 no ip address 
 no shut 
-exit 
+exit
+
 interface GigabitEthernet0/0.100 
 description Link VLAN100 Interface 
 encapsulation dot1Q 100 
@@ -51,8 +53,9 @@ service timestamps log datetime msec
 
 end 
 write memory 
-
+```
 # Edge Router 2
+```ios
 En
 Conf t 
 hostname EdgRtr2 
@@ -102,3 +105,4 @@ service timestamps log datetime msec
  
 end 
 write memory
+```
