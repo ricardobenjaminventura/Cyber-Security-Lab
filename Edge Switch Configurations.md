@@ -1,6 +1,6 @@
 # Switch01
-hostname EXTSwitch01 
-
+```cisco
+hostname EXTSwitch01
 vlan 100 
 name EXT-VLAN-100 
 exit
@@ -34,8 +34,9 @@ snmp-server host 192.168.86.249 version 2c public
 snmp-server enable traps
 end
 wr
-
+```
 # Switch02
+```cisco
 En
 Conf t 
 hostname EXTSwitch02 
@@ -75,3 +76,4 @@ snmp-server host 192.168.86.249 version 2c public
 snmp-server enable traps 
 End 
 Copy running-config startup-config 
+```
