@@ -1,5 +1,7 @@
 # Cyber-Security-Lab
-Since graduating I built this multinode simulated enterprise network for penetration and security testing. It has redundant trunk links including two PfSense firewalls in the DMZ.  Kali Linux was used for testing on the metasploitable and DC-1 vulnerable machines that simulate users. I included another remote network that utilizes CloudStack that emulates any IAAS requirments for testing cloud environments. This is an ongoing project as I hone what I've learned in Cyber Security and build on my previous Network Engineering knowledge.
+Since graduating, I have continued expanding my technical expertise by designing and maintaining a server environment and multi-node simulated enterprise network for penetration testing and security analysis. The lab includes redundant trunk links and dual pfSense firewalls configured within a DMZ architecture. I use Kali Linux to conduct testing against Metasploitable and DC-1 vulnerable machines that simulate real-world user systems and attack scenarios.
+
+I also integrated a separate remote network utilizing CloudStack to emulate IaaS environments for cloud security testing and administration. This remains an ongoing project that allows me to further develop my cybersecurity skills while building upon my prior experience in network engineering.
 
 # Server builds
 Local Server:
