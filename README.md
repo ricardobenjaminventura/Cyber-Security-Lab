@@ -1,7 +1,7 @@
 # Cyber-Security-Lab
 Since graduating, I have continued expanding my technical expertise by designing and maintaining a server environment and multi-node simulated enterprise network for penetration testing and security analysis. The lab includes redundant trunk links and dual pfSense firewalls configured within a DMZ architecture. I use Kali Linux to conduct testing against Metasploitable and DC-1 vulnerable machines that simulate real-world user systems and attack scenarios.
 
-To enhance visibility and security monitoring within the environment, I implemented Zabbix for network and infrastructure performance monitoring, allowing for centralized tracking of system health, availability, and resource utilization across the lab. I also integrated Wazuh as a security information and event management (SIEM) and host-based intrusion detection platform to monitor logs, detect threats, and analyze security events across both on-premises and cloud-based systems.
+To enhance visibility and monitoring within the environment, I implemented Zabbix for network and infrastructure performance monitoring, allowing for centralized tracking of system health, availability, and resource utilization across the lab. I also integrated Wazuh as a security information and event management (SIEM) and host-based intrusion detection platform to monitor logs, detect threats, and analyze security events across both on-premises and cloud-based systems.
 
 Additionally, I integrated a separate remote network utilizing CloudStack to emulate IaaS environments for cloud security testing and administration. This remains an ongoing project that allows me to further develop my cybersecurity skills while building upon my prior experience in network engineering.
 
