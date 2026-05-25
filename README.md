@@ -9,6 +9,7 @@ Local Server:
 - Four Corsair 16gb DDR5 at 6000mhz SKU / Part Number: CMK32GX5M2B6000C30
       (overclocked cpu to match)
 - T500 PCIe Gen4 NVMe M.2 2TB 7400MB/s
+
 IDRAC7 Remote Server:
 - Integrated Dell Remote Acces Controller 7
 - 2x Intel(R) Xeon(R) CPU E5-2670 0 @ 2.60GHz
