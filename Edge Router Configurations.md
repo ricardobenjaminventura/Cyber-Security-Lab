@@ -1,5 +1,5 @@
 # Edge Router 1
-```routeros
+```cisco
 En
 Conf t 
 hostname EdgRtr1 
@@ -55,7 +55,7 @@ end
 write memory 
 ```
 # Edge Router 2
-```ios
+```cisco
 En
 Conf t 
 hostname EdgRtr2 
